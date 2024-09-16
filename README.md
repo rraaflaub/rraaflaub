@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rraaflaub
 - 👀 I’m interested in C/C++ open source projects and technical writing
-- 🌱 I’m currently learning Technical Writing at Algonquin College
+- 🌱 I am an engineer, technical writer, and chef
 - 💞️ I’m looking to collaborate on Open Source documentation
 - 📫 How to reach me rraaflaub@gmail.com
 
